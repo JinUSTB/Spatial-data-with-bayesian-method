@@ -48,10 +48,8 @@ LPML_ICAR  #is the LPML value for nofrailty
 result_ICAR #is the estimates for parameters (covariates effects+tau2) and their sd and 95%credible interval
 
 
-
-
-
-##GRF###################################################
+----------------------------------------------------------------------------    
+##**GRF**###################################################
 1. This folder contains the GRFdata.csv as the example data and the code for analyzing the data with GRF frailty.
   
 2. Open the file "GRF_piecewise.R" with R and run.
