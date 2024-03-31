@@ -25,7 +25,7 @@ E = as.matrix(read.table(file ="adjacency.csv", header=TRUE, sep =",")) is the a
 E[i,j] be 1 if area code i and j are neighbors and 0 otherwise. E[i,i]=0
 
 
-*Tips*: Please set the subjects that from the same area next to each other like the example data(ICARdata)
+**Tips**: Please set the subjects that from the same area next to each other like the example data(ICARdata)
 
 ####################################################################################
 #### ------------------- ####
